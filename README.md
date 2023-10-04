@@ -1,13 +1,10 @@
-# astrolus
+# boo
 
-A page template built with astro and tailwindcss using tailus blocks.
-
-![Tailus astro based theme](./public/astrolus-light.png)
-![Tailus astro based dark theme](./public/astrolus-dark.png)
+Web booking platform.
 
 ## 🚀 Project Structure
 
-Inside of your Astro project, you'll see the following folders and files:
+Inside of the project, you'll see the following folders and files:
 
 ```
 /
